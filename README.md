@@ -9,3 +9,6 @@ You can install screen using: ```apt-get install screen```. Also make sure the `
 
 #### Important information
 For both Linux and Windows, make sure to have Java installed to run the servers properly
+
+#### What if I don't have Forge installed?
+A Forge installer will be included in each release.
