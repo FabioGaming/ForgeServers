@@ -12,3 +12,6 @@ For both Linux and Windows, make sure to have Java installed to run the servers 
 
 #### What if I don't have Forge installed?
 A Forge installer will be included in each release.
+
+### How can I play with others?
+If you drag the files to a public server, all people will need is the servers IP address. In case you host the server on your computer or any other local device in your network, you'll need a tunneling software to connect to others first, connected people then need to copy & paste your IPV4 address (NOTE: it has to be the IPV4 of the host device) into the Minecraft server bar
